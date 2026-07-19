@@ -4,3 +4,10 @@
 .altossa_attachments/
 __pycache__/
 *.pyc
+venv/
+.DS_Store
+*.log
+.ipynb_checkpoints/
+node_modules/
+dist/
+build/
